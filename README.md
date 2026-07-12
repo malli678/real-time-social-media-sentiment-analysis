@@ -315,7 +315,7 @@ Send Notification
 End
 ```
 
-*(Insert your Airflow DAG image.)*
+![Airflow DAG](Dashboard/Airflow%20DAG%20Image/Airflow%20DAG.jpeg)
 
 ---
 
@@ -331,8 +331,7 @@ Pipeline monitoring includes:
 * Failed job alerts
 * Success notifications
 
-*(Insert monitoring architecture or screenshots.)*
-
+![Monitoring & Alerts](Dashboard/Monitoring_Alerts%20Image/Monitoring%20%26%20Alerts.jpeg)
 ---
 
 # 📊 Analytics Dashboards
