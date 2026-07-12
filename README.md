@@ -350,7 +350,9 @@ Power BI dashboards provide:
 * Positive vs Negative Sentiment
 * Topic Performance
 
-*(Insert dashboard screenshots.)*
+![Executive Summary & Geographical Trends](Dashboard/Dashboard%20Images/img1.png)
+![Topic Performance & User Interface](Dashboard/Dashboard%20Images/img2.png)
+![Data Quality & Activity](Dashboard/Dashboard%20Images/img3.png)
 
 ---
 
